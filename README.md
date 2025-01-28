@@ -1,5 +1,7 @@
 <h1>Oluwadarasimi A. Ayanlaja</h1>
-<h5>Digital Craftsman (Developer/Photographer/Creator</h5>
+<h5>Digital Craftsman (Developer/Photographer/Creator)</h5>
+
+<p>I'm a Nigerian Front-End Developer Major, Photographer and a visual creator building my version of the digital world one step at a time. ALl coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All Pictures are built in the same way, from ideation and planning to tell a story, all the way to finalizing the content with artistic touches. I publish my photography content on Instagram <a href="https://www.instagram.com/papishelbystudios?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr">"PapiShelbyStudios</a> </p>
 
 <!--
 **daraayans/daraayans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
