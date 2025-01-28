@@ -1,4 +1,5 @@
 <h1>Oluwadarasimi A. Ayanlaja</h1>
+<h5>Digital Craftsman (Developer/Photographer/Creator</h5>
 
 <!--
 **daraayans/daraayans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
