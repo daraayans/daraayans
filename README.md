@@ -44,7 +44,7 @@
 
 - 📫 How to reach me **daraayans@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YOxMHrxqLAaEc5ZJXEqrYJbogqNWRQmn/view?usp=sharing](https://drive.google.com/file/d/1YOxMHrxqLAaEc5ZJXEqrYJbogqNWRQmn/view?usp=sharing)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1YOxMHrxqLAaEc5ZJXEqrYJbogqNWRQmn/view?usp=sharing)
 
 - ⚡ Fun fact **I am Funny**
 
